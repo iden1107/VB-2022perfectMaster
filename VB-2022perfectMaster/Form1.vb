@@ -1125,7 +1125,7 @@ Namespace Section4
     instance.Fname(10)
 
 
-    '●
+    '●aaa
 
     '●
 
